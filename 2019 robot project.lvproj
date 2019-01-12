@@ -124,6 +124,7 @@ AddOutputFilter chunkFilter
 			<Item Name="Normalize Score.vi" Type="VI" URL="../Vision Dependencies/Normalize Score.vi"/>
 			<Item Name="Rectangle Comparison.vi" Type="VI" URL="../Vision Dependencies/Rectangle Comparison.vi"/>
 			<Item Name="Sorted Particle Report 2016.vi" Type="VI" URL="../Vision Dependencies/Sorted Particle Report 2016.vi"/>
+			<Item Name="Toggle.vi" Type="VI" URL="../../FIRST-3958-Controls-Library/FIRST FRC LabVIEW Library/subVIs/Toggle.vi"/>
 		</Item>
 		<Item Name="Team Code" Type="Folder">
 			<Item Name="Autonomous Independent.vi" Type="VI" URL="../Autonomous Independent.vi"/>
@@ -138,6 +139,7 @@ AddOutputFilter chunkFilter
 		</Item>
 		<Item Name="Robot Main.vi" Type="VI" URL="../Robot Main.vi"/>
 		<Item Name="Mech Drive.vi" Type="VI" URL="../Mech Drive.vi"/>
+		<Item Name="Smart Mech Drive.vi" Type="VI" URL="../Smart Mech Drive.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Acquire Semaphore.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/semaphor.llb/Acquire Semaphore.vi"/>
