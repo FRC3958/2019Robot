@@ -142,6 +142,9 @@ AddOutputFilter chunkFilter
 		<Item Name="Robot Main.vi" Type="VI" URL="../Robot Main.vi"/>
 		<Item Name="Mech Drive.vi" Type="VI" URL="../Mech Drive.vi"/>
 		<Item Name="Smart Mech Drive.vi" Type="VI" URL="../Smart Mech Drive.vi"/>
+		<Item Name="Strafe.vi" Type="VI" URL="../../FIRST-3958-Controls-Library/FIRST FRC LabVIEW Library/subVIs/Strafe.vi"/>
+		<Item Name="PID_types.ctl" Type="VI" URL="../../FIRST-3958-Controls-Library/FIRST FRC LabVIEW Library/subVIs/PID_types.ctl"/>
+		<Item Name="Auto Align.vi" Type="VI" URL="../Auto Align.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Acquire Semaphore.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/semaphor.llb/Acquire Semaphore.vi"/>
