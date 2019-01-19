@@ -127,6 +127,7 @@ AddOutputFilter chunkFilter
 			<Item Name="Toggle.vi" Type="VI" URL="../../FIRST-3958-Controls-Library/FIRST FRC LabVIEW Library/subVIs/Toggle.vi"/>
 			<Item Name="navX Library v2.lvlib" Type="Library" URL="../../FIRST-3958-Controls-Library/NavX/navX Library v2/navX Library v2.lvlib"/>
 			<Item Name="DeadBand.vi" Type="VI" URL="../../FIRST-3958-Controls-Library/FIRST FRC LabVIEW Library/subVIs/DeadBand.vi"/>
+			<Item Name="Button Press.vi" Type="VI" URL="../../FIRST-3958-Controls-Library/FIRST FRC LabVIEW Library/subVIs/Button Press.vi"/>
 		</Item>
 		<Item Name="Team Code" Type="Folder">
 			<Item Name="Autonomous Independent.vi" Type="VI" URL="../Autonomous Independent.vi"/>
